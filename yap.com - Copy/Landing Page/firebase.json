@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "yap.com - Copy",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+p{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #3C3633;
+
+  }
+  hr{
+      width: 1000px;
+      size: 20px;
+  }
+  body{
+      text-align: justify;
+  }
+  h1{
+      font-size: 45px;
+      font-family: Georgia; 
+      color: #3C3633
+  }
+  h2{
+      font-family: Georgia;
+      color: #3D3B40
+  }
+  h3{
+      font-family: Georgia;
+      color: #3D3B40
+  }   
+  a {
+    color: black;
+  }
+
+  img {
+    padding: 5px;
+    width: 200px;
+    border-radius: 15%;
+    display: inline;
+    box-shadow: 0 0 3px black;
+    margin: 0 6%;
+}
+
+  .info-box {
+      border: 3px solid #3C3633;
+      padding: 20px;
+      margin: 20px auto;
+      width: 90%;
+      background-color: #EBE3D5;
+      box-shadow: 0 0 10px 	rgba(115, 147, 179,0);
+      border-radius: 20px;
+  }
+.button {
+    border: 3px solid #3C3633;
+    padding: 20px;
+    background-color: #EBE3D5;
+    border-radius: 20px;
+    margin: 15px;
+}
+
+
+
+
+.image-hover {
+    padding: 5px;
+    width: 200px;
+    border-radius: 50%;
+    
+    
+}
+
+.image-hover:hover {
+    transition: all 0.2s ease-in-out;
+    transform: scale(1.1);
+}
+
+
+
+
+
+
